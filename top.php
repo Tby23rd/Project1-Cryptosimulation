@@ -21,8 +21,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
         <td width="530" class="Bold"><a href="./" class="home">Home</a> &nbsp;&nbsp;<a href="prices.php" class="home">Prices</a> &nbsp;&nbsp;<a href="about.php" class="home">About Us</a> &nbsp;&nbsp; <a href="terms.php" class="home">Terms of Use</a></td>
         <td width="485" class="Bai">
     
-        <img src="imgs/phonecall.png" width="40" height="40" class="Img_m" /><a href="tel:713-992-0916" class="home">713-992-0916</a><br />
-        <img src="imgs/email.png" width="40" height="40"class="Img_m"  /><a href="mailto:amberkolescience@gmail.com" class="home">amberkolescience@gmail.com</a> </td>
+        <img src="imgs/phonecall.png" width="40" height="40" class="Img_m" /><a href="tel:123-456-7890" class="home">123-456-7890</a><br />
+        <img src="imgs/email.png" width="40" height="40"class="Img_m"  /><a href="mailto:tabitha.maru@gmail.com" class="home">tabitha.maru@gmail.com</a> </td>
         <td width="478" align="right" class="Bai">
 <?php 
 if (@$_SESSION["user"]<>"" ){ 
