@@ -1,6 +1,6 @@
 PLEASE ENABLE SQLITE3 AND GD OR GD2 IN XAMPP TO RUN THE APP! (SEE HOW_TO_SETUP_XAMPP.gif)
 
-![alt text]()
+![alt text](https://github.com/Tby23rd/Project1-Cryptosimulation/blob/master/2021-12-26%20(1).png?raw=true)
 ![alt text]()
 ![alt text]()
 ![alt text]()
