@@ -1,1 +1,11 @@
 PLEASE ENABLE SQLITE3 AND GD OR GD2 IN XAMPP TO RUN THE APP! (SEE HOW_TO_SETUP_XAMPP.gif)
+
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
