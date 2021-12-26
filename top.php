@@ -28,7 +28,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 if (@$_SESSION["user"]<>"" ){ 
 ?>
 Hi, <span class="Orange Bold"><?=$_SESSION["user"]?></span> !
-    
+
      <a href="update.php" class="home Bold">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 	 <?php if($user=='admin'){?>
      <a href="admin.php" class="home Bold">Admin</a>&nbsp;&nbsp;|&nbsp;&nbsp;
