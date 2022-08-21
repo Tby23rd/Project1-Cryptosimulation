@@ -1,6 +1,6 @@
 <?PHP 
 /**
- * code will return a graph of virification code, it uses PHP GD library to draw graphics 
+ * code will return a graph of verification code, it uses PHP GD library to draw graphics 
  */
 session_start(); 
 //session_register('SafeCode');

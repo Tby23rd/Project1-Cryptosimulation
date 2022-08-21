@@ -167,6 +167,7 @@ var myFunction = function() {
 
 var timeOut = setInterval(myFunction, 30000); 
 </script>
-<?php require('bot.php')?>
+
+<?php require('footer.php')?>
 </body>
 </html>

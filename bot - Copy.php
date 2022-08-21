@@ -83,10 +83,12 @@ background-color:black;
                     </div>
                 </div>
             </div>
-
-         <p> <a href="about.php" class="home">About Us</a><br /></p>
-          <p><a href="terms.php" class="home">Terms of Use</a><br /></p>
-<p><a href="login.php" class="home Bold">Login/Register</a></p>
+            <p>Frequently Asked Questions</p>
+            <p>Blog</p>
+            <p>Careers</p>
+            <p>Referrals</p>
+            <p>Terms of Use</p>
+            <p>Policies</p>
         </div>
         
         <div class="social">

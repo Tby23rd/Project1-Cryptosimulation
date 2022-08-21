@@ -118,6 +118,6 @@ require("sql.php");
   
 </div>
 
-<?php require('bot.php')?>
+<?php require('footer.php')?>
 </body>
 </html>

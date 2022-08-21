@@ -1,4 +1,3 @@
-/*-字体-*/
 @font-face {
   font-family: 'Basis Grotesque Pro-Bold';
   font-style: normal;
@@ -12,7 +11,7 @@
   src: local('Domaine Display Bold'), local('Domaine-Display-Bold'), url(DomaineDisplayBold.woff) format('woff');
 }
 @font-face{font-family:"BasisGrotesquePro-Regular";src:url("BasisGrotesquePro-Regular.woff") format("truetype");} 
-@font-face{font-family:"Ringtown";src:url("Ringtown.woff") format("truetype");} /*简易调用字体*/
+@font-face{font-family:"Ringtown";src:url("Ringtown.woff") format("truetype");} 
 /*-end-*/
 .EnglishCaoShu{font-family:'Ringtown'; }
 .ctitle{ font-family:'Ringtown'; font-size:36px; color:#8c8c8c;}

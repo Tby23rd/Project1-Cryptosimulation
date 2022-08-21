@@ -48,6 +48,6 @@ A database structures its data into tables whereas a blockchain, like its name i
  </div> 
 </div>
 
-<?php require('bot.php')?>
+<?php require('footer.php')?>
 </body>
 </html>
